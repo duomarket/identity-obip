@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "vW7IiPtoA4hQQ/ScHlbmRktY89U=",
+			"path": "github.com/tyler-smith/go-bip39",
+			"revision": "8e7a99b3e716f36d3b080a9a70f9eb45abe4edcc",
+			"revisionTime": "2016-06-29T16:38:56Z"
+		},
+		{
+			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": "453249f01cfeb54c3d549ddb75ff152ca243f9d8",
+			"revisionTime": "2017-02-08T20:51:15Z"
+		},
+		{
+			"checksumSHA1": "YfMJFDDMd8dQRV0/9iRSsMtY9LU=",
+			"path": "gx/ipfs/QmPGxZ1DP2w45WcogpW1h43BvseXbfke9N91qotpoQcUeS/go-libp2p-crypto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "G7ig/HiBh9qLCDTUiYuFq5tqPWE=",
+			"path": "gx/ipfs/QmPGxZ1DP2w45WcogpW1h43BvseXbfke9N91qotpoQcUeS/go-libp2p-crypto/pb",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "7nD2LWdYeBCo6tx71HHDF9vaR1s=",
+			"path": "gx/ipfs/QmQ51pHe6u7CWodkUGDLqaCEMchkbMt7VEZnECF5mp6tVb/ed25519",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KPgcZSPSpKNwGGjmJOvJDhXX2bk=",
+			"path": "gx/ipfs/QmQ51pHe6u7CWodkUGDLqaCEMchkbMt7VEZnECF5mp6tVb/ed25519/edwards25519",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "yHt/5bJbFg3Kaja2n8D6CGMbA2w=",
+			"path": "gx/ipfs/QmQ51pHe6u7CWodkUGDLqaCEMchkbMt7VEZnECF5mp6tVb/ed25519/extra25519",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "XEoBQw0pNcffR6EA/0BqbYc8e9k=",
+			"path": "gx/ipfs/QmT8rehPR3F6bmwL6zjUN8XpiDBFFpMP2myPdC6ApsWfJf/go-base58",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "onCjjpQpw4iVI+P53wQLzUMSEaU=",
+			"path": "gx/ipfs/QmWq5PJgAQKDWQerAijYUVKW8mN5MDatK5j7VMp8rizKQd/btcec",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "KBokI/L75pFOBUrPiM4JNnWHaQk=",
+			"path": "gx/ipfs/QmZ4Qi3GaRbjcx28Sme5eMH7RQjGkt8wHxt2a65oLaeFEV/gogo-protobuf/proto",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "rT25kGYsA4toipDqKrDA4t0kIOs=",
+			"path": "gx/ipfs/QmaPHkZLbQQbvcyavn8q1GFHg6o6yeceyHFSJ3Pjf3p3TQ/go-crypto/blake2b",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "THPHGzFZMV+aXm+DDuEsqKZP7q4=",
+			"path": "gx/ipfs/QmaPHkZLbQQbvcyavn8q1GFHg6o6yeceyHFSJ3Pjf3p3TQ/go-crypto/blake2s",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "js8qkiUHQrUOjvv2OxImrYrE7TA=",
+			"path": "gx/ipfs/QmaPHkZLbQQbvcyavn8q1GFHg6o6yeceyHFSJ3Pjf3p3TQ/go-crypto/sha3",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "J88wKvhj9Slq8F2VxZPhSlpF0hI=",
+			"path": "gx/ipfs/QmbZ6Cee2uHjG7hf19qLHppgKDRtaG4CVtMzdmK9VCVqLu/go-multihash",
+			"revision": ""
+		}
+	],
+	"rootPath": "github.com/duomarket/identityobip"
+}
